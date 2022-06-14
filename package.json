@@ -1,6 +1,6 @@
 {
   "name": "@numberworks/use-screenshot-hook",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React hook to take screenshot for React components.",
   "author": "NumberWorks",
   "license": "MIT",
